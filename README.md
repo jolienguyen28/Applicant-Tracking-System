@@ -1,6 +1,6 @@
 # ATS Resume ExPeRt
 
-ATS Resume ExPeRt is a Streamlit-based application that leverages Google’s generative AI API to evaluate resumes against job descriptions. The tool allows users to upload a resume (PDF format) and provides feedback on the resume's alignment with specified job roles. This feedback includes an overall percentage match and a professional evaluation.
+ATS Resume ExPeRt is a Streamlit-based application that leverages Google’s generative AI API to evaluate resumes against job descriptions. The tool allows users to upload a resume (PDF format) and provides feedback on the resume's alignment with specified job roles. This feedback includes an overall percentage match and a professional evaluation. Demo video: https://drive.google.com/file/d/1bn1jkH2dVbOuh8MuA-8FVjBIhS4iQWBC/view?usp=sharing
 
 ## Features
 
